@@ -25,6 +25,30 @@ A curated collection of awesome LLM apps built with RAG and AI agents. This repo
   </a>
 </p>
 
+## 📜 Table of Contents
+- [🌟 Awesome LLM Apps](#-awesome-llm-apps)
+- [🤔 Why Awesome LLM Apps?](#-why-awesome-llm-apps)
+- [🚨 Open Source AI Agent Hackathon](#-open-source-ai-agent-hackathon)
+  - [Participate Now: Global AI Agent Hackathon](#participate-now-global-ai-agent-hackathon)
+- [📂 Project Structure](#-project-structure)
+- [📂 Featured AI Projects](#-featured-ai-projects)
+  - [AI Agents](#ai-agents)
+  - [🌱 Starter AI Agents](#-starter-ai-agents)
+  - [🚀 Advanced AI Agents](#-advanced-ai-agents)
+  - [🎮 Autonomous Game Playing Agents](#-autonomous-game-playing-agents)
+  - [🤝 Multi-agent Teams](#-multi-agent-teams)
+  - [🗣️ Voice AI Agents](#️-voice-ai-agents)
+  - [🌐 MCP AI Agents](#-mcp-ai-agents)
+  - [RAG (Retrieval Augmented Generation)](#rag-retrieval-augmented-generation)
+  - [🧠 Advanced LLM Apps](#-advanced-llm-apps)
+  - [💬 Chat with X Tutorials](#-chat-with-x-tutorials)
+  - [💾 LLM Apps with Memory Tutorials](#-llm-apps-with-memory-tutorials)
+  - [🔧 LLM Fine-tuning Tutorials](#-llm-fine-tuning-tutorials)
+- [🚀 Getting Started](#-getting-started)
+- [📜 License](#-license)
+- [🤝 Contributing to Open Source](#-contributing-to-open-source)
+  - [Thank You, Community, for the Support! 🙏](#thank-you-community-for-the-support-)
+
 ## 🤔 Why Awesome LLM Apps?
 
 - 💡 Discover practical and creative ways LLMs can be applied across different domains, from code repositories to email inboxes and more.
@@ -42,6 +66,16 @@ We're launching a Global AI Agent Hackathon in collaboration with AI Agent ecosy
 ### Participate Now: [Global AI Agent Hackathon](https://github.com/global-agent-hackathon/global-agent-hackathon-may-2025)
 
 ⭐ Star this repo and subscribe to [Unwind AI](https://www.theunwindai.com) for latest updates.
+
+## 📂 Project Structure
+
+-   **`advanced_ai_agents/`**: For sophisticated AI agents with complex functionalities.
+-   **`advanced_llm_apps/`**: For advanced applications leveraging Large Language Models, beyond basic chat.
+-   **`mcp_ai_agents/`**: For AI agents utilizing Meta-Cognitive Programming (MCP) techniques.
+-   **`rag_tutorials/`**: For tutorials and examples of Retrieval Augmented Generation.
+-   **`starter_ai_agents/`**: For beginner-friendly AI agent examples.
+-   **`voice_ai_agents/`**: For AI agents with voice interaction capabilities.
+-   **`docs/`**: Contains supporting documentation and assets like images.
 
 ## 📂 Featured AI Projects
 
@@ -125,9 +159,7 @@ We're launching a Global AI Agent Hackathon in collaboration with AI Agent ecosy
 *   [📠 RAG with Database Routing](rag_tutorials/rag_database_routing/)
 *   [🖼️ Vision RAG](rag_tutorials/vision_rag/)
 
-### MCP AI Agents
-- [🐙 MCP GitHub Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/github_mcp_agent)
-- [♾️ MCP Browser Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/browser_mcp_agent)
+<!-- Note: The duplicate "MCP AI Agents" section from the original was removed as it's already listed above -->
 
 ### 🧠 Advanced LLM Apps
 
@@ -174,6 +206,10 @@ We're launching a Global AI Agent Hackathon in collaboration with AI Agent ecosy
     ```
 
 4. **Follow the project-specific instructions** in each project's `README.md` file to set up and run the app.
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing to Open Source
 
